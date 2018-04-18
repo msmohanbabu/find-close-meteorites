@@ -5,4 +5,8 @@ A Demo Project that uses Python and NASA data
 
 This project requires python 2 and requests package
 
-'python3 find_meteors.py'
+First, Install pipenv. Then:
+```
+pipenv Install
+pipenv run "python meteor/find_meteors.py"
+```
